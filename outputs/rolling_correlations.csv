@@ -1,0 +1,8 @@
+feature,window,roll_r,raw_lag1_r,improvement
+mood_mean,3,0.4196,0.472,-0.0524
+activity_mean,3,0.0779,0.1183,-0.0404
+screen_sum,3,0.1005,0.0337,0.0668
+appCat.social_sum,3,-0.0585,-0.0581,0.0004
+appCat.communication_sum,3,0.1186,0.0573,0.0613
+circumplex.valence_mean,3,0.1859,0.2733,-0.0874
+circumplex.arousal_mean,3,-0.0055,0.0821,-0.0766

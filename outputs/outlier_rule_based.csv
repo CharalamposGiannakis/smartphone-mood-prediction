@@ -1,0 +1,20 @@
+variable,n_total,n_impossible,pct_impossible,affected_patients,rule_lo,rule_hi
+mood,5641,0,0.0,0,1,10
+circumplex.arousal,5643,0,0.0,0,-2,2
+circumplex.valence,5643,0,0.0,0,-2,2
+activity,22965,0,0.0,0,0,1
+screen,96578,0,0.0,0,0,None & ≤86400s
+call,5239,0,0.0,0,0,
+sms,1798,0,0.0,0,0,
+appCat.builtin,91288,3,0.0,3,0,None & ≤86400s
+appCat.communication,74276,0,0.0,0,0,None & ≤86400s
+appCat.entertainment,27125,1,0.0,1,0,None & ≤86400s
+appCat.finance,939,0,0.0,0,0,None & ≤86400s
+appCat.game,813,0,0.0,0,0,None & ≤86400s
+appCat.office,5642,0,0.0,0,0,None & ≤86400s
+appCat.other,7650,0,0.0,0,0,None & ≤86400s
+appCat.social,19145,0,0.0,0,0,None & ≤86400s
+appCat.travel,2846,0,0.0,0,0,None & ≤86400s
+appCat.unknown,939,0,0.0,0,0,None & ≤86400s
+appCat.utilities,2487,0,0.0,0,0,None & ≤86400s
+appCat.weather,255,0,0.0,0,0,None & ≤86400s

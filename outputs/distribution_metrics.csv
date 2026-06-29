@@ -1,0 +1,18 @@
+variable,n,skewness,kurtosis_excess,p1,p5,p50,p95,p99,zero_share,small_share,small_cutoff,top1pct_share,classification
+activity,22965,2.0903,4.3998,0.0,0.0,0.0217,0.5312,0.8125,0.4283,0.4631,0.01,0.0811,"right_skewed, extreme_dominated"
+appCat.builtin,85327,2.0216,3.9136,0.621,1.002,4.012,21.4571,30.782,0.0,0.0033,0.33627,0.0509,"right_skewed, extreme_dominated"
+appCat.communication,71157,1.7565,2.8127,0.834,1.869,15.046,102.6984,147.3525,0.0,0.0451,1.66247,0.0545,right_skewed
+appCat.entertainment,23378,2.6202,7.0592,0.06,0.534,2.933,30.1043,47.5066,0.0,0.0524,0.55559,0.0783,"right_skewed, extreme_dominated"
+appCat.finance,870,1.9902,3.5322,1.0017,2.0034,7.055,46.7823,61.572,0.0,0.0034,0.68332,0.0533,"right_skewed, extreme_dominated"
+appCat.game,762,1.9477,3.5788,1.8,3.7537,37.172,279.7466,404.9845,0.0,0.0827,4.45963,0.0614,"right_skewed, extreme_dominated"
+appCat.office,5003,2.1923,4.8148,0.891,1.002,3.012,16.0566,23.3271,0.0,0.002,0.26142,0.0541,"right_skewed, extreme_dominated"
+appCat.other,6994,1.7033,2.998,0.8149,2.004,9.0815,31.3318,43.1172,0.0,0.0036,0.46077,0.0386,right_skewed
+appCat.social,18226,1.7795,2.8595,0.8682,1.8032,26.07,175.062,246.316,0.0,0.0866,2.74202,0.055,right_skewed
+appCat.travel,2772,1.6379,2.598,0.7278,1.376,17.0695,101.1577,148.7421,0.0,0.0671,1.7146,0.0538,right_skewed
+appCat.unknown,894,1.7896,3.2379,0.771,1.005,14.5755,92.5249,140.9095,0.0,0.1007,1.57287,0.0571,"right_skewed, extreme_dominated"
+appCat.utilities,2406,1.8096,3.3207,1.002,1.007,7.1195,39.152,58.3509,0.0,0.0033,0.6783,0.054,"right_skewed, extreme_dominated"
+appCat.weather,253,1.049,0.5327,1.008,2.022,15.114,44.587,55.9076,0.0,0.0,0.68253,0.0393,right_skewed
+circumplex.arousal,5597,-0.0763,-0.8643,-2.0,-2.0,0.0,1.0,2.0,0.2834,0.6645,0.02,,well_behaved
+circumplex.valence,5487,-1.0296,1.5566,-1.0,-1.0,1.0,1.0,2.0,0.2382,0.2965,0.02,0.1404,well_behaved
+mood,5641,-0.8331,2.4626,4.0,5.0,7.0,8.0,9.0,0.0,0.0,0.1,0.0534,well_behaved
+screen,90621,1.9083,3.4359,0.564,1.113,17.429,142.729,207.0518,0.0,0.1292,2.34176,0.0597,"right_skewed, extreme_dominated"

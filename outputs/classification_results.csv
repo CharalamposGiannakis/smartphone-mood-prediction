@@ -1,0 +1,4 @@
+model,macro_f1_mean,macro_f1_std,n_instances,best_params
+majority_baseline,0.18248088801739767,0.014796934366471188,1394,
+xgboost,0.43907771354347375,0.08002023351519115,1394,"{'subsample': 0.7, 'reg_lambda': 5.0, 'reg_alpha': 0.01, 'n_estimators': 200, 'min_child_weight': 7, 'max_depth': 6, 'learning_rate': 0.05, 'gamma': 0.2, 'colsample_bytree': 0.7}"
+lstm,0.42646204282304856,0.12122907231467883,660,"{'hidden_size': 32, 'lr': 0.001, 'dropout': 0.2}"

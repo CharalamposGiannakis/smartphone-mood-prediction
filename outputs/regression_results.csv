@@ -1,0 +1,5 @@
+model,mae_mean,mse_mean,r2_mean,n_instances,best_params
+naive_baseline,0.5468014739304996,0.5552469526883144,-0.4190298798375124,–,
+rolling_w5_baseline,0.49792417622734847,0.4491023928364572,0.13744672807663405,–,
+xgboost,0.48769315995010115,0.44749669171819195,0.10050854847732449,1394,"{'subsample': 1.0, 'reg_lambda': 5.0, 'reg_alpha': 1.0, 'n_estimators': 500, 'min_child_weight': 7, 'max_depth': 3, 'learning_rate': 0.05, 'gamma': 0.5, 'colsample_bytree': 0.7}"
+lstm,0.4961416522661845,0.4348769287268321,0.11190410455067952,660,"{'hidden_size': 64, 'lr': 0.001, 'dropout': 0.3}"

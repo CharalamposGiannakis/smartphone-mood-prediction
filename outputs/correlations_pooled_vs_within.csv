@@ -1,0 +1,13 @@
+feature,pearson_r,spearman_r,within_pearson_r
+mood_mean,0.472,0.477,0.2728
+circumplex.valence_mean,0.2733,0.2669,0.2176
+appCat.entertainment_sum,0.1328,0.1855,0.022
+activity_mean,0.1183,0.1582,0.045
+circumplex.arousal_mean,0.0821,0.0438,0.1044
+appCat.social_sum,-0.0581,0.0122,-0.0519
+appCat.builtin_sum,0.0579,-0.0002,0.0603
+appCat.communication_sum,0.0573,0.109,-0.0255
+appCat.other_sum,0.0347,0.1363,-0.059
+screen_sum,0.0337,0.0878,-0.0518
+call_sum,-0.0256,-0.025,0.0237
+sms_sum,-0.0239,0.0277,0.0426

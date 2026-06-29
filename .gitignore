@@ -1,0 +1,21 @@
+# Data files
+data/*.csv
+data/*.parquet
+outputs/data_*.csv
+outputs/daily_*.csv
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Environments
+.venv/
+.env
+
+# OS
+.DS_Store

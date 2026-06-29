@@ -1,0 +1,15 @@
+variable,raw_skewness,log1p_skewness,sqrt_skewness,recommended_transform
+activity,2.0903,1.7296,0.9262,sqrt
+appCat.builtin,2.0216,0.5429,1.1388,log1p
+appCat.communication,1.7565,0.0403,0.8474,log1p
+appCat.entertainment,2.6202,0.8162,1.5191,log1p
+appCat.finance,1.9902,0.4029,1.1685,log1p
+appCat.game,1.9477,-0.1032,0.9515,log1p
+appCat.office,2.1923,0.7711,1.3117,log1p
+appCat.other,1.7033,-0.2946,0.667,log1p
+appCat.social,1.7795,-0.1794,0.8041,log1p
+appCat.travel,1.6379,-0.1202,0.6757,log1p
+appCat.unknown,1.7896,-0.0685,0.7606,log1p
+appCat.utilities,1.8096,0.164,0.8624,log1p
+appCat.weather,1.049,-0.5404,0.2714,sqrt
+screen,1.9083,-0.051,0.9028,log1p

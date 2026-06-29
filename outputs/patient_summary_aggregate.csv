@@ -1,0 +1,11 @@
+,mean,median,min,max
+n_records,13959.7,14581.0,2848.0,21999.0
+n_distinct_days,73.07,72.0,50.0,101.0
+n_mood_days,46.96,46.0,30.0,68.0
+n_variables_observed,17.19,17.0,14.0,19.0
+avg_records_per_day,196.21,187.34,36.05,346.86
+missing_mood_days_%,39.99,41.03,4.0,62.96
+longest_obs_gap_days,3.26,3.0,1.0,8.0
+longest_mood_streak,30.52,31.0,2.0,58.0
+mood_mean,7.0,6.98,6.11,7.79
+mood_std,0.94,0.92,0.5,1.72

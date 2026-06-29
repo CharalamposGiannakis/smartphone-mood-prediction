@@ -1,0 +1,6 @@
+baseline,MAE,MSE,MAE_share_top5%,MSE_share_top5%,MSE_penalises_more
+naive (today→tomorrow),0.5528,0.5704,0.1851,0.3936,0.2085
+expanding mean,0.5023,0.4612,0.1827,0.3959,0.2132
+rolling mean (w=3),0.5386,0.5268,0.1828,0.3813,0.1986
+rolling mean (w=5),0.5063,0.4691,0.1851,0.3963,0.2112
+rolling mean (w=7),0.4977,0.4578,0.1863,0.3995,0.2132

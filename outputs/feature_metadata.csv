@@ -1,0 +1,6 @@
+variable,transform_applied,features,lag1_r_with_next_mood,rolling_improvement,justification
+mood,none,"mood_lag1, mood_lag2, mood_w5_mean, mood_w5_std, mood_w5_trend",0.472,-0.052,Strongest single predictor; lag-2 also included (r=0.393)
+circumplex.valence,none,"circumplex_valence_lag1, circumplex_valence_w5_mean, circumplex_valence_w5_std, circumplex_valence_w5_trend",0.273,-0.087,Second strongest within-patient predictor
+activity,sqrt,"activity_lag1, activity_w5_mean, activity_w5_std, activity_w5_trend",0.118,-0.04,Significant within-patient signal; sqrt-transformed
+screen,log1p skipped (overcorrects on imputed data),"screen_lag1, screen_w5_mean, screen_w5_std, screen_w5_trend",0.034,0.067,Weak lag-1 but rolling aggregation improves by +0.067
+appCat.communication,log1p skipped (overcorrects on imputed data),"appCat_communication_lag1, appCat_communication_w5_mean, appCat_communication_w5_std, appCat_communication_w5_trend",0.057,0.061,Rolling improves by +0.061; collinearity with screen (r≈0.75) flagged
