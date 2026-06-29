@@ -2,6 +2,7 @@
 data/*.csv
 data/*.parquet
 outputs/data_*.csv
+!outputs/data_imputed_first20.csv
 outputs/daily_*.csv
 
 # Python
